@@ -1,2 +1,2 @@
 # PSX
-Play
+PlayStation files
